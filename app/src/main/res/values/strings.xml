@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DemoUx</string>
+    <string name="hint_ingresa_tu_nombre">Ingresa tu nombre</string>
+    <string name="hint_ingresa_correo">ingresa correo</string>
+    <string name="error_nombre_tres_caract"> Nombre de al menos tres caracteres</string>
+
+    <string-array name="meses_array">
+        <item>Enero</item>
+        <item>Febrero</item>
+        <item>Marzo</item>
+        <item>Abril</item>
+        <item>Mayo</item>
+        <item>Junio</item>
+        <item>Julio</item>
+        <item>Agosto</item>
+        <item>Septiembre</item>
+    </string-array>
+</resources>
